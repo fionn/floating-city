@@ -1,0 +1,22 @@
+{
+    "name": "Floating City",
+    "description": "Marvels of a Floating City",
+    "keywords": ["twitter", "twitter-bot", "floating-city", "xi-xi"],
+    "repository": "https://github.com/fionn/floating-city",
+    "logo": "https://i.imgur.com/JDczjcj.jpg",
+    "addons": ["scheduler"],
+    "env": {
+        "API_KEY": {
+            "description": "Twitter API key"
+        },
+        "API_SECRET": {
+            "description": "Twitter API secret"
+        },
+        "ACCESS_TOKEN": {
+            "description": "Twitter access token"
+        },
+        "ACCESS_TOKEN_SECRET": {
+            "description": "Twitter access token secret"
+        }
+    }
+}
