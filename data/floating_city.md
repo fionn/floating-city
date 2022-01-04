@@ -1,8 +1,8 @@
 ## 1. Floating City
 
-The floating city appeared suddenly before everyone’s eye in the middle of sky like a hydrogen-filled balloon on a clear, bright day many years ago. Rolling clouds swirled by above; waves crashed on the swelling sea below. The floating city hovered, going neither up nor down as it maintained its position, buffered slightly by the breeze.
+The floating city appeared suddenly before everyone’s eyes in the middle of the sky like a hydrogen-filled balloon on a clear, bright day many years ago. Rolling clouds swirled by above; waves crashed on the swelling sea below. The floating city hovered, going neither up nor down as it maintained its position, buffered slightly by the breeze.
 
-Only our grandparents’ grandparents witnessed how it all began. It had been an unbelievable and terrifying experience, one they recalled fearfully. There had been a violent collision of clouds lighting up the sky with flashes and roars of thunder. On the sea countless pirate vessels had run up the skull and crossbones and fired their cannon nonstop. Suddenly the floating city had dropped from the clouds and hung in mid-air.
+Only our grandparents’ grandparents witnessed how it all began. It had been an unbelievable and terrifying experience, one they recalled fearfully. There had been a violent collision of clouds lighting up the sky with flashes and roars of thunder. On the sea countless pirate vessels had run up the skull and crossbones and fired their cannons nonstop. Suddenly the floating city had dropped from the clouds and hung in mid-air.
 
 Many years passed. Our grandparents’ grandparents passed away, and our grandparents followed them into a deep sleep. By and by the story they had told became a mysterious legend.
 
