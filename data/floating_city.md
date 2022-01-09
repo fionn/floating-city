@@ -1,4 +1,4 @@
-## 1. Floating City
+## I. Floating City
 
 The floating city appeared suddenly before everyone’s eyes in the middle of the sky like a hydrogen-filled balloon on a clear, bright day many years ago. Rolling clouds swirled by above; waves crashed on the swelling sea below. The floating city hovered, going neither up nor down as it maintained its position, buffered slightly by the breeze.
 
@@ -10,7 +10,7 @@ The grandchildren settled in the city and gradually adapted to living there. Eve
 
 Many more years passed.
 
-## 2. The Miracle
+## II. The Miracle
 
 It takes courage to live without roots: that’s what it said on the jacket of a novel. To live in the floating city required not only courage, but willpower and faith. In another novel there is a nonexistent knight who is nothing more than an empty suit of armour. Emperor Charlemagne asks him, what keeps you going? Willpower and faith, he replies.
 
@@ -20,7 +20,7 @@ Buildings stood packed together in rows on the ground; highways and overpasses w
 
 People couldn’t quite believe it possible that houses in the city could float in mid-air, that one flower grown there could fill a whole room. They all said that the floating city was a miracle.
 
-## 3. Showers
+## III. Showers
 
 May to September was the windy season. The winds blew from all directions, and the floating city swayed in the sky. The residents of the floating city were used to the swaying, and they went about their business as usual, not even missing the races. They knew from experience that the floating city would never be blown upside-down or in circles during the windy season, nor would it be blown away to some other place.
 
@@ -30,7 +30,7 @@ From May on, people dreamed about floating. Even people who slept during the day
 
 Why did everyone have the same dream? Why did they all dream they were floating in the sky? One school of psychologists came to the conclusion that this was the collective expression of a ‘Third Riverbank Neurosis’.
 
-## 4. Apples
+## IV. Apples
 
 In the summer a poster appeared in the streets of the floating city. On it was a picture of an apple with a line of French above it. It said: ‘Ceci n’est pas une pomme’ — ‘This is not an apple’. The appearance of the poster was not unusual since a large art exhibition was going to be held. This year’s exhibition was being held in honour of the Belgian artist René Magritte. The apple was one of his paintings.
 
@@ -38,7 +38,7 @@ What did ‘This is not an apple’ mean? The picture was obviously of an apple.
 
 Posters of Magritte’s painting could be seen on every street corner, although only one or two out of every thousand people in the floating city would actually go to see the exhibition. The appearance of so many apples in the streets of the floating city was nonetheless a cause for excitement. Many people mistook it for an advertisement for the fruit market. Only a few intellectuals suddenly thought to themselves: the floating city is a stable place that neither rises nor sinks, yet it, too, is an illusion. The miracle of the floating city was not, after all, a fairy tale.
 
-## 5. The Eye
+## V. The Eye
 
 ‘Cinderella’ is a fairy tale. The pumpkin turns into a carriage; mice turn into horses; Cinderella’s rags turn into a ball gown. But at midnight everything turns back into what it was. Was the floating city just another Cinderella?
 
@@ -48,7 +48,7 @@ The apple in the picture was not a real apple; the city that existed so miraculo
 
 The people of the floating city opened their eyes wide and looked down. The angry waves of the sea surged beneath their feet. The city could be overwhelmed by the waters. Even if it managed to float on the water, wouldn’t there be a massacre when the pirates flying the skull and crossbones fell on them in droves? If the floating city rose upward, would the shifting, airy clouds provide a stable foundation for its solid weight?
 
-## 6. A Problem
+## VI. A Problem
 
 The floating city did not have any rivers, and the sea water was undrinkable. The city had to rely on the bounty of heaven for water. So although the people of the floating city liked brilliant sunny days, sometimes they had to pray for rain.
 
@@ -58,7 +58,7 @@ People treat water in different ways at different times. Sometimes they are tole
 
 One student stood looking at the painting for a long time. He said: people use umbrellas to keep themselves dry. Since the water is all in the glass, there’s no need for an umbrella. There’s no need to reject anything. If there were a solid, reliable layer of clouds over the floating city, there would be hope for the city if it floated upward. Why reject it?
 
-## 7. The Flower Spirit
+## VII. The Flower Spirit
 
 The majority of the residents of the floating city were men who wore hats — the symbol of the petit bourgeoisie. They desire a stable, prosperous society, a warm, happy home. So they worked industriously every day; they were as busy as ants or bees. Hard work can help you forget lots of things. As a result of their labours, the people of the floating city were able to build a wealthy modern society in which everyone was well fed and well dressed. But it was a society in which material attractions were so great that people threw themselves into their labours with ever greater energy. They became victims of the bottomless pit of material desire.
 
@@ -68,7 +68,7 @@ Li Gonglin of the Song dynasty painted a work entitled Vimalakīrti Preaching [�
 
 The citizens of the rich and populous floating city were so enamoured of material wealth that they wished the heavenly spirit would cast all of her flowers onto them; they even wished they could bundle Primavera up with her flowers in a sack and carry it around with them.
 
-## 8. Time
+## VIII. Time
 
 It was an important moment, an absolute point in time. A train engine had just pulled in. A moment earlier the engine had not yet entered the fireplace; a moment later, it would have gone. It was only when the engine was steaming through the fireplace, only at this absolute point in time, that the smoke from it stack could go up the chimney. The chimney was the only suitable conduit for the smoke.
 
@@ -80,7 +80,7 @@ Yes, it was after midnight. But all the fables said the Cinderella would meet he
 
 Zero hour always made people anxious. What would it be like at one o’clock? Could people see the future through the mirror?
 
-## 9. The Mirror
+## IX. The Mirror
 
 Only people who have been to the floating city will appreciate that the mirrors there are different. In ‘Snow White and the Seven Dwarves’ a magic mirror hangs in the wicked queen’s palace. It can answer questions and tell the queen who is the fairest of them all. It is an honest, sincere mirror: it never lies. The mirrors in the floating city are also honest mirrors. They reflect reality without fear or favour. Yet they have their limitations: the mirrors in the floating city can reflect only the backs of things.
 
@@ -88,7 +88,7 @@ All the mirrors, whether produced locally or imported, reflect only the reverse 
 
 In the floating city’s mirrors you can’t find any answers or forecast the future. But you can know the past, and this isn’t necessarily a bad thing. History can teach lessons, and this is one of the good things about the mirrors in the floating city.
 
-## 10. Wings
+## X. Wings
 
 There are many means of transportation in the floating city: some ancient, like rope ladders and balloons, some modern, such as helicopters and parachutes. People who want to have a look in the clouds can climb the ladders or go up by balloon, while visitors to the sea can use parachutes or go by helicopter. However, over half of the people in the floating city want to grow wings themselves. All in all, these people find it scary to live in a city that floats in mid-air. The people who are really terrified agonise night and day, finally deciding to pack up their belongings and they behave like migratory birds, moving elsewhere to build an ideal new nest.
 
@@ -98,7 +98,7 @@ It is a difficult decision to know where to go once you’ve left the floating c
 
 But the residents of the floating city are not really like migratory birds. Once they leave they do not return. Can they just go away, holding a walking stick and carrying their luggage, without ever looking back? Although the people in the floating city long to be like the pigeons that fly high in the sky, they are frustrated like birds imprisoned in a cage.
 
-## 11. Bird Grass
+## XI. Bird Grass
 
 In their longing to fly, the people of the floating city keep looking up at the sky. But they can’t take off, nor can they create a hoist to lift them into the sky. All they can do is dream when the windy season approaches, dream that they can float silently in the air. Even in their dreams they float but cannot fly.
 
@@ -108,7 +108,7 @@ Bird grass, with its dark, lush foliage, grows everywhere — in the city and ou
 
 Although shaped like birds, it is still only grass. None of the bird grass has wings. People say if it grew wings it would be able to fly. The air of the floating city would be full of flying bird grass, and no one would be able to tell whether it was birds or grass, animal or vegetable.
 
-## 12. The Child Prodigies
+## XII. The Child Prodigies
 
 The child prodigies appeared in the same year as the bird grass. At first they attracted no special attention; they were simply milk-guzzling babies. But they grew quickly, both physically and mentally. Before long they were healthy, precocious children.
 
@@ -118,7 +118,7 @@ At first the children told their mothers to keep the window open when using the 
 
 A few mothers were happy with the situation. They had been plagued by doubts and worries and had faced many unresolved problems. Now their brilliant children would, perhaps, solve all these problems for them.
 
-## 13. Windows
+## XIII. Windows
 
 The earth is only one small planet in the universe. The floating city is only one small city on the earth. On a map it is no larger than the head of a pin, and it did not even seem to have a name. But gradually this tiny city attracted attention from afar.
 
