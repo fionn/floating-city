@@ -76,7 +76,7 @@ The fireplace reminded one of Christmas, a day the whole city celebrated. Howeve
 
 On the marble clock on the mantelpiece the hour hand was approaching one, the minute hand was approaching nine. It was unclear where the second hand was. It was after midnight. A carriage would be a pumpkin again by now, horses would have turned back into mice, and the ball gown would be rags once more.
 
-Yes, it was after midnight. But all the fables said the Cinderella would meet her prince on a white horse before midnight. Had the prince of the floating city been waiting close by as midnight approached? Although he was riding a magic white horse, since it had only one horsepower, perhaps he had arrived late.
+Yes, it was after midnight. But all the fables said Cinderella would meet her prince on a white horse before midnight. Had the prince of the floating city been waiting close by as midnight approached? Although he was riding a magic white horse, since it had only one horsepower, perhaps he had arrived late.
 
 Zero hour always made people anxious. What would it be like at one o’clock? Could people see the future through the mirror?
 
