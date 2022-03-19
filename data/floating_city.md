@@ -70,7 +70,7 @@ The citizens of the rich and populous floating city were so enamoured of materia
 
 ## VIII. Time
 
-It was an important moment, an absolute point in time. A train engine had just pulled in. A moment earlier the engine had not yet entered the fireplace; a moment later, it would have gone. It was only when the engine was steaming through the fireplace, only at this absolute point in time, that the smoke from it stack could go up the chimney. The chimney was the only suitable conduit for the smoke.
+It was an important moment, an absolute point in time. A train engine had just pulled in. A moment earlier the engine had not yet entered the fireplace; a moment later, it would have gone. It was only when the engine was steaming through the fireplace, only at this absolute point in time, that the smoke from its stack could go up the chimney. The chimney was the only suitable conduit for the smoke.
 
 The fireplace reminded one of Christmas, a day the whole city celebrated. However, judging from the room this was not Christmas, because there were no stockings hanging in front of the fireplace, no pine tree in the room, no bright lights, no angels, no bells, no candles in the bronze candle holders.
 
