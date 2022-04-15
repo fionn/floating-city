@@ -37,8 +37,10 @@ def main() -> None:
     """Entry point"""
     twitter = Twitter()
 
+    lang = os.environ.get("FLOATING_CITY_LANGUAGE", "en")
+
     last_tweet = twitter.last_status_text()
-    future_tweets = tweetify("data/floating_city.md")
+    future_tweets = tweetify(f"data/floating_city_{lang}.md")
 
     try:
         next_tweet_index = future_tweets.index(last_tweet) + 1

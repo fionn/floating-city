@@ -1,20 +1,25 @@
 #!/usr/bin/env python3
 """Break text into tweet-sized chunks"""
 
+import os
 from functools import reduce
 from operator import iconcat
 
 import nltk
 
-MAX_LENGTH=280
+MAX_LENGTH = 280
+LANG = os.environ.get("FLOATING_CITY_LANGUAGE", "en")
+
+if LANG == "tc":
+    MAX_LENGTH = int(MAX_LENGTH / 2)
 
 
-def fold_sentences(sentences: list) -> list:
+def fold_sentences(sentences: list, space: str = " ") -> list:
     """Try to join sentences, keeping under the limit"""
     i = 0
     while i < len(sentences) - 1:
         if len(sentences[i]) + len(sentences[i + 1]) < MAX_LENGTH:
-            sentences[i] += (" " + sentences.pop(i + 1))
+            sentences[i] += (space + sentences.pop(i + 1))
         else:
             i += 1
 
@@ -27,12 +32,16 @@ def split(paragraph: str) -> list:
         return [paragraph]
 
     # Split into sentences, then greedily join the sentences.
-    sentences = nltk.tokenize.sent_tokenize(paragraph)
-    substrings = fold_sentences(sentences)
+    if "。" in paragraph:
+        sentences = [line + "。" for line in paragraph.split("。") if line]
+        substrings = fold_sentences(sentences, space="")
+    else:
+        sentences = nltk.tokenize.sent_tokenize(paragraph)
+        substrings = fold_sentences(sentences)
 
     # If any substrings are over the limit, we have to split them up more
     # finely than at the sentence level.
-    deliminators = [";", ","]
+    deliminators = [";", ",", "；", "，", "、"]
     for i, substring in enumerate(substrings):
         if len(substring) > MAX_LENGTH:
             short_substring = substring[:MAX_LENGTH]
@@ -65,7 +74,7 @@ def tweetify(path: str) -> list:
 
 def main() -> None:
     """Entry point"""
-    tweets = tweetify("data/floating_city.md")
+    tweets = tweetify(f"data/floating_city_{LANG}.md")
     for tweet in tweets:
         assert len(tweet) <= MAX_LENGTH
         print(tweet)

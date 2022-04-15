@@ -17,6 +17,10 @@
         },
         "ACCESS_TOKEN_SECRET": {
             "description": "Twitter access token secret"
+        },
+        "FLOATING_CITY_LANGUAGE": {
+            "description": "Language, value must be \"en\" or \"tc\"",
+            "value": "en"
         }
     }
 }

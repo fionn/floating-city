@@ -6,7 +6,7 @@ _The [@floatingcitybot](https://twitter.com/floatingcitybot) appeared suddenly._
 
 A Twitter bot that tweets _Marvels of a Floating City_ by Xi Xi.[^1]
 
-[^1]: As translated by Linda Jaivin and Geremie Barmé, sourced from [China Heritage](https://chinaheritage.net/journal/the-floating-city-%E6%B5%AE%E5%9F%8E/) and reproduced (with minor corrections) in [`data/floating_city.md`](data/floating_city.md).
+[^1]: As translated by Linda Jaivin and Geremie Barmé, sourced from [China Heritage](https://chinaheritage.net/journal/the-floating-city-%E6%B5%AE%E5%9F%8E/) and reproduced (with minor corrections) in [`data/floating_city_en.md`](data/floating_city_en.md).
 
 We take paragraphs from the source material and greedily split them into groups of sentences, maximising length subject to the character limit. If this is not possible (i.e. we have very long sentences), we split by delimiter instead.
 
